@@ -1,0 +1,5 @@
+# NAME: CustomProxy
+payload:
+  - DOMAIN-SUFFIX,typing.com,PROXY
+  - DOMAIN-SUFFIX,communitygaming.io,PROXY
+  - DOMAIN,u2.dmhy.org,PROXY

@@ -1,0 +1,20 @@
+# NAME: CustomDirect
+payload:
+  - DOMAIN-SUFFIX,hifini.com
+  - DOMAIN-SUFFIX,dmhy.best
+  - DOMAIN-SUFFIX,skyeysnow.com
+  - DOMAIN-SUFFIX,skyey.win
+  - DOMAIN-SUFFIX,skyey2.com
+  - DOMAIN-SUFFIX,azusa.wiki
+  - DOMAIN-SUFFIX,haidan.video
+  - DOMAIN-SUFFIX,htpt.cc
+  - DOMAIN-SUFFIX,hares.top
+  - DOMAIN-SUFFIX,wintersakura.net
+  - DOMAIN-SUFFIX,piggo.me
+  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,chaturbate.com
+  - IP-CIDR,119.28.28.28/32,DIRECT
+  - IP-CIDR,182.254.116.0/24,DIRECT
+  - SRC-IP-CIDR,10.10.10.2/32,DIRECT
+  - SRC-IP-CIDR,10.10.10.5/32,DIRECT
