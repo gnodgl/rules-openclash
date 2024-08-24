@@ -1,5 +1,6 @@
 # NAME: CustomDirect
 payload:
+  - DOMAIN-SUFFIX,gnodgl.xyz
   - DOMAIN-SUFFIX,hifini.com
   - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,skyeysnow.com
