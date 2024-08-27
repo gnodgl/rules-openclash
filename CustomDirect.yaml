@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,braze.com
-  - DOMAIN-SUFFIX,chaturbate.com
   - IP-CIDR,119.28.28.28/32
   - IP-CIDR,182.254.116.0/24
   - SRC-IP-CIDR,10.10.10.2/32
