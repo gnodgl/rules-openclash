@@ -24,6 +24,8 @@ jobs:
       run: |
         rm -f PrivateTracker.yaml && wget https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrivateTracker/PrivateTracker.yaml
         sed -i '/u2.dmhy.org/d' PrivateTracker.yaml
+        
+        echo "Auto Update PTrules in ${{ steps.date.outputs.date }}" > README.md
 
     - name: Clean
       run: |
