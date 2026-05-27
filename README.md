@@ -1,1 +1,1 @@
-Auto Update PTrules in 2026-05-26 13:03:06 CST
+Auto Update PTrules in 2026-05-27 13:14:53 CST
